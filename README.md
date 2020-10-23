@@ -1,4 +1,4 @@
 # hello-world
 just another repo
 HI humans!
-I really do not what to say
+I really do not know what to say
